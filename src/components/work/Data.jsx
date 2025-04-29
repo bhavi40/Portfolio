@@ -21,7 +21,7 @@ export const projectData = [
         image: Work2,
         title: 'Colorado Road Risk Analysis', 
         category: 'Machine Learning',
-        github:'',
+        github:'https://github.com/bhavi40/Colorado-road-Risk-Analysis-and-Hotspot-Prediction',
     },
     {
         id: 3,
