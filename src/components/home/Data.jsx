@@ -6,7 +6,7 @@ function Data(){
             </h1>
             <h3 className="home__subtitle">Data Scientist</h3>
             <p className="home__description">
-                I&apos;m Data Scientist based in Denver, and I&apos;m passionate and dedicated to my work.
+                  From React to regression, building my path as a Data Scientist with a passion for tech, travel, and trekking.
             </p>
             <a href="#contact" className="button button--flex">
                 Say Hello
