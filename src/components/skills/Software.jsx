@@ -9,8 +9,8 @@ function Software(){
                     <i className='bx bx-badge-check'></i>
 
                     <div>
-                        <h3 className="skills__name">HTML</h3>
-                        <span className="skills__level">Basic</span>
+                        <h3 className="skills__name">Python</h3>
+                        <span className="skills__level">Advanced</span>
                     </div>
                     </div>
 
@@ -18,7 +18,7 @@ function Software(){
                     <i className='bx bx-badge-check'></i>
 
                     <div>
-                        <h3 className="skills__name">CSS</h3>
+                        <h3 className="skills__name">Javascript</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
                     </div>
@@ -27,8 +27,8 @@ function Software(){
                     <i className='bx bx-badge-check'></i>
 
                     <div>
-                        <h3 className="skills__name">JavaScript</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <h3 className="skills__name">SQL</h3>
+                        <span className="skills__level">Advanced</span>
                     </div>
                     </div>
 
@@ -36,7 +36,7 @@ function Software(){
                     <i className='bx bx-badge-check'></i>
 
                     <div>
-                        <h3 className="skills__name">React</h3>
+                        <h3 className="skills__name">MongoDB</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
                     </div>
@@ -49,16 +49,7 @@ function Software(){
                     <i className='bx bx-badge-check'></i>
 
                     <div>
-                        <h3 className="skills__name">Python</h3>
-                        <span className="skills__level">Advanced</span>
-                    </div>
-                    </div>
-
-                    <div className="skills__data">
-                    <i className='bx bx-badge-check'></i>
-
-                    <div>
-                        <h3 className="skills__name">SQL</h3>
+                        <h3 className="skills__name">Express</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
                     </div>
@@ -67,7 +58,16 @@ function Software(){
                     <i className='bx bx-badge-check'></i>
 
                     <div>
-                        <h3 className="skills__name">MySQL</h3>
+                        <h3 className="skills__name">NodeJS</h3>
+                        <span className="skills__level">Intermediate</span>
+                    </div>
+                    </div>
+
+                    <div className="skills__data">
+                    <i className='bx bx-badge-check'></i>
+
+                    <div>
+                        <h3 className="skills__name">GCP, AWS</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
                     </div>

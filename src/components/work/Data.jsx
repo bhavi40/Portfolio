@@ -6,6 +6,7 @@ import Work5 from "../../assets/work5.jpg";
 import Work6 from "../../assets/work6.jpg";
 import Work7 from "../../assets/work7.jpeg";
 import Work8 from "../../assets/work8.jpg";
+import Work9 from "../../assets/work9.jpg";
 
 
 export const projectData = [
@@ -66,6 +67,13 @@ export const projectData = [
         category: 'App',
         github:'https://github.com/bhavi40/ExpenseTracker',
     },
+    {
+        id: 9,
+        image: Work9,
+        title: 'Ordinal Regression',  
+        category: 'Research',
+        github:'https://github.com/bhavi40/OrdianlRegression_research',
+    },
 ];
 
 
@@ -82,4 +90,7 @@ export const projectsNav=[
     {
         name:'App',
     },
+    {
+        name:'Research'
+    }
 ];
