@@ -11,7 +11,16 @@ function Info(){
             <i className='bx bx-folder about__icon'></i>
            
                 <h3 className="about__title">Completed</h3>
-                <span className="about__subtitle">10+ projects</span>
+                <span className="about__subtitle">
+          <a 
+            href="https://github.com/bhavi40" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="about__link"
+          >
+            10+ projects
+          </a>
+        </span>
             </div>
 
             <div className="about__box">

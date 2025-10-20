@@ -9,9 +9,7 @@ function Social(){
           style={{ width: "20px", height: "20px" }}
         />
             </a>
-            <a href="https://www.instagram.com/" className="home__social-icon" target="_blank">
-            <i className="uil uil-instagram"></i>
-            </a>
+        
             <a href="https://www.linkedin.com/in/bhavishya-vudatha-320a7b167/
 " className="home__social-icon" target="_blank">
             <i className="uil uil-linkedin"></i>
