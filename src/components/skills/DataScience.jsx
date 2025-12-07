@@ -9,7 +9,7 @@ function DataScience(){
                 <i className='bx bx-badge-check'></i>
 
                 <div>
-                    <h3 className="skills__name">Spark</h3>
+                    <h3 className="skills__name">Pyspark</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
@@ -18,7 +18,7 @@ function DataScience(){
                 <i className='bx bx-badge-check'></i>
 
                 <div>
-                    <h3 className="skills__name">ETL Pipelines</h3>
+                    <h3 className="skills__name">Azure ETL Pipelines</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
@@ -36,7 +36,7 @@ function DataScience(){
                 <i className='bx bx-badge-check'></i>
 
                 <div>
-                    <h3 className="skills__name">Supervised Learning</h3>
+                    <h3 className="skills__name">CI/CD</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
@@ -49,7 +49,7 @@ function DataScience(){
                 <i className='bx bx-badge-check'></i>
 
                 <div>
-                    <h3 className="skills__name">unsupervised Learning</h3>
+                    <h3 className="skills__name">Snowflake</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
@@ -58,7 +58,7 @@ function DataScience(){
                 <i className='bx bx-badge-check'></i>
 
                 <div>
-                    <h3 className="skills__name">NLP</h3>
+                    <h3 className="skills__name">DBT</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
@@ -67,7 +67,7 @@ function DataScience(){
                 <i className='bx bx-badge-check'></i>
 
                 <div>
-                    <h3 className="skills__name">TensorFlow</h3>
+                    <h3 className="skills__name">AWS</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
@@ -76,7 +76,7 @@ function DataScience(){
                 <i className='bx bx-badge-check'></i>
 
                 <div>
-                    <h3 className="skills__name">Deep Learning</h3>
+                    <h3 className="skills__name">Airflow</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>

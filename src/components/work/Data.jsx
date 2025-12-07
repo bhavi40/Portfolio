@@ -7,6 +7,8 @@ import Work6 from "../../assets/work6.jpg";
 import Work7 from "../../assets/work7.jpeg";
 import Work8 from "../../assets/work8.jpg";
 import Work9 from "../../assets/work9.jpg";
+import Work10 from "../../assets/work10.jpeg";
+import Work11 from "../../assets/work11.png";
 
 
 export const projectData = [
@@ -74,12 +76,29 @@ export const projectData = [
         category: 'Research',
         github:'https://github.com/bhavi40/OrdianlRegression_research',
     },
+    {
+        id: 10,
+        image: Work10,
+        title: 'Azure Ecommerce ETL Pipeline',  
+        category: 'Data Engineering',
+        github:'https://github.com/bhavi40/DataEngineering/tree/main/Brazillian%20ecommerce',
+    },
+    {
+        id: 11,
+        image: Work11,
+        title: 'Youtube Analytics ETL Pipeline',  
+        category: 'Data Engineering',
+        github:'https://github.com/bhavi40/DataEngineering/tree/main/Youtube%20Analytics',
+    },
 ];
 
 
 export const projectsNav=[
     {
         name:'Machine Learning',
+    },
+    {
+        name:'Data Engineering',
     },
     {
         name:'NLP',

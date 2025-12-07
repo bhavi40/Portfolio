@@ -1,7 +1,8 @@
 import "./About.css";
 import AboutImg from "../../assets/Profilepic.jpg";
 import CV from "../../assets/Bhavishya_Resume.pdf";
-import Info from "./info";
+import Info from "./Info";
+
 function About(){
     return(
         <section className="about section" id="about">
@@ -12,7 +13,7 @@ function About(){
                 <img src={AboutImg} alt="" className="about__img" />
                 <div className="about__data">
                     <Info/>
-                    <p className="about__description">With 3+ years of experience as a Software Engineer, I’ve built and optimized web applications using React.js, Node.js, and SQL. Now, as a Master’s student, I’m expanding into AI, Machine Learning, and Data Engineering to create intelligent, data-driven solutions.</p>
+                    <p className="about__description">With 3+ years of experience in software and Azure Data Engineering, I’ve developed scalable ADF–Databricks pipelines, automated SQL jobs, and migrated large operational datasets into Azure Data Lake, built MERN API’s. I’m now strengthening my skills in ML and AI during my Master’s so I can build smarter, cloud-native data systems end-to-end.</p>
                     <a download="" href={CV} className="button button--flex">Download Resume
                     <i className="uil uil-file-download"></i>
                     </a>

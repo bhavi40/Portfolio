@@ -42,10 +42,30 @@ function Qualification(){
                                 <span className="qualification__line"></span>
                             </div>
                             <div>
-                                <h3 className="qualification__title">Software Development Engineer</h3>
+                                <h3 className="qualification__title">Data Engineer</h3>
                                 <span className="qualification__subtitle">Accenture</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i>&nbsp;2019 - 2023
+                                    <i className="uil uil-calendar-alt"></i>&nbsp;2021 - 2023
+                                </div>
+                            </div>
+
+                            
+
+                        </div>
+                    
+
+                        <div className="qualification__data">
+                            <div></div>
+
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+                            <div>
+                                <h3 className="qualification__title">Software Engineer</h3>
+                                <span className="qualification__subtitle">Accenture</span>
+                                <div className="qualification__calender">
+                                    <i className="uil uil-calendar-alt"></i>&nbsp;2019 - 2020
                                 </div>
                             </div>
 
