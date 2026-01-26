@@ -1,7 +1,7 @@
 function DataScience(){
     return(
         <div className="skills__content">
-        <h3 className="skills__title">Data & AI</h3>
+        <h3 className="skills__title">Data Scientist & ML Engineer</h3>
 
         <div className="skills__box">
             <div className="skills__group">
@@ -9,7 +9,7 @@ function DataScience(){
                 <i className='bx bx-badge-check'></i>
 
                 <div>
-                    <h3 className="skills__name">Pyspark</h3>
+                    <h3 className="skills__name">Machine Learning</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
@@ -18,7 +18,7 @@ function DataScience(){
                 <i className='bx bx-badge-check'></i>
 
                 <div>
-                    <h3 className="skills__name">Azure ETL Pipelines</h3>
+                    <h3 className="skills__name">Deep Learning</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
@@ -27,7 +27,7 @@ function DataScience(){
                 <i className='bx bx-badge-check'></i>
 
                 <div>
-                    <h3 className="skills__name">Tableau</h3>
+                    <h3 className="skills__name">NLP</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
@@ -36,7 +36,7 @@ function DataScience(){
                 <i className='bx bx-badge-check'></i>
 
                 <div>
-                    <h3 className="skills__name">CI/CD</h3>
+                    <h3 className="skills__name">LLM</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
@@ -49,7 +49,7 @@ function DataScience(){
                 <i className='bx bx-badge-check'></i>
 
                 <div>
-                    <h3 className="skills__name">Snowflake</h3>
+                    <h3 className="skills__name">RAG</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
@@ -58,7 +58,7 @@ function DataScience(){
                 <i className='bx bx-badge-check'></i>
 
                 <div>
-                    <h3 className="skills__name">DBT</h3>
+                    <h3 className="skills__name">LangChain</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
@@ -67,7 +67,7 @@ function DataScience(){
                 <i className='bx bx-badge-check'></i>
 
                 <div>
-                    <h3 className="skills__name">AWS</h3>
+                    <h3 className="skills__name">Vector Database</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
@@ -76,7 +76,7 @@ function DataScience(){
                 <i className='bx bx-badge-check'></i>
 
                 <div>
-                    <h3 className="skills__name">Airflow</h3>
+                    <h3 className="skills__name">statistical analysis</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>

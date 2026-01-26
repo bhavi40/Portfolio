@@ -13,7 +13,7 @@ function About(){
                 <img src={AboutImg} alt="" className="about__img" />
                 <div className="about__data">
                     <Info/>
-                    <p className="about__description">With 3+ years of experience in software and Azure Data Engineering, I’ve developed scalable ADF–Databricks pipelines, automated SQL jobs, and migrated large operational datasets into Azure Data Lake, built MERN API’s. I’m now strengthening my skills in ML and AI during my Master’s so I can build smarter, cloud-native data systems end-to-end.</p>
+                    <p className="about__description">With 3+ years of experience as a Data Engineering and Data Science at Accenture, I’ve built scalable data pipelines and machine learning solutions on large datasets. After completing my Master’s in Computer Science with a 4.0 GPA, I’m now focused on transitioning into an ML Engineer role, building end-to-end, production-ready ML systems.</p>
                     <a download="" href={CV} className="button button--flex">Download Resume
                     <i className="uil uil-file-download"></i>
                     </a>
