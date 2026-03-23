@@ -23,7 +23,7 @@ function Qualification(){
                                 <h3 className="qualification__title">Master&apos;s in Computer Science</h3>
                                 <span className="qualification__subtitle">University of Colorado Denver</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i>&nbsp;2024 - Present
+                                    <i className="uil uil-calendar-alt"></i>&nbsp;2024 - 2025
                                 </div>
                             </div>
 
@@ -42,10 +42,10 @@ function Qualification(){
                                 <span className="qualification__line"></span>
                             </div>
                             <div>
-                                <h3 className="qualification__title">Data Scientist</h3>
+                                <h3 className="qualification__title">Data Engineer</h3>
                                 <span className="qualification__subtitle">Accenture</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i>&nbsp;APR 2021 - MAR 2023
+                                    <i className="uil uil-calendar-alt"></i>&nbsp;Jan 2021 - MAR 2023
                                 </div>
                             </div>
 
@@ -62,10 +62,10 @@ function Qualification(){
                                 <span className="qualification__line"></span>
                             </div>
                             <div>
-                                <h3 className="qualification__title">Data Engineer</h3>
+                                <h3 className="qualification__title">Software Engineer</h3>
                                 <span className="qualification__subtitle">Accenture</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i>&nbsp;DEC 2019 - MAR 2021
+                                    <i className="uil uil-calendar-alt"></i>&nbsp;DEC 2019 - Dec 2020
                                 </div>
                             </div>
 

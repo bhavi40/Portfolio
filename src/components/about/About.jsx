@@ -13,7 +13,7 @@ function About(){
                 <img src={AboutImg} alt="" className="about__img" />
                 <div className="about__data">
                     <Info/>
-                    <p className="about__description">From building robust data pipelines to developing predictive ML models at Accenture for 3+ Years, I have recently completed my Master’s in Computer Science with a 4.0 GPA, I’m now pursuing an ML Engineer role where I can design and deploy full-stack, production-ready machine learning systems.</p>
+                    <p className="about__description">From building scalable data pipelines and backend systems at Accenture for 3.5+ years to recently completing my Master’s in Computer Science, I am now focused on applying AI and data engineering to build intelligent, production-ready systems.</p>
                     <a download="" href={CV} className="button button--flex">Download Resume
                     <i className="uil uil-file-download"></i>
                     </a>

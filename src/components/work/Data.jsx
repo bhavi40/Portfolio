@@ -9,6 +9,8 @@ import Work8 from "../../assets/work8.jpg";
 import Work9 from "../../assets/work9.jpg";
 import Work10 from "../../assets/work10.jpeg";
 import Work11 from "../../assets/work11.png";
+import Work12 from "../../assets/work12.jpeg";
+import Work13 from "../../assets/work13.jpeg";
 
 
 export const projectData = [
@@ -73,7 +75,7 @@ export const projectData = [
         id: 9,
         image: Work9,
         title: 'Ordinal Regression',  
-        category: 'Research',
+        category: 'Research & Agents',
         github:'https://github.com/bhavi40/OrdianlRegression_research',
     },
     {
@@ -90,6 +92,22 @@ export const projectData = [
         category: 'Data Engineering',
         github:'https://github.com/bhavi40/DataEngineering/tree/main/Youtube%20Analytics',
     },
+     {
+        id: 12,
+        image: Work12,
+        title: 'Real-time Telecom Analytics Pipeline',  
+        category: 'Data Engineering',
+        github:'https://github.com/bhavi40/DataEngineering/tree/main/Telecom_data',
+    },
+    {
+        id: 13,
+        image: Work13,
+        title: 'AI Email Processing Agent',  
+        category: 'Research & Agents',
+        github:'https://github.com/bhavi40/DataEngineering/tree/main/Telecom_data',
+    },
+    
+
 ];
 
 
@@ -110,6 +128,6 @@ export const projectsNav=[
         name:'App',
     },
     {
-        name:'Research'
+        name:'Research & Agents'
     }
 ];

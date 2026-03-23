@@ -1,6 +1,7 @@
 import "./skills.css";
 import Software from "./Software";
 import DataScience from "./DataScience";
+import DataEngineer from "./DataEngineer";
 function Skills(){
     return(
         <section className="skills section" id="skills">
@@ -12,6 +13,8 @@ function Skills(){
                 <Software/>
 
                 <DataScience/>
+                <DataEngineer/>
+                
             </div>
         </section>
     )
