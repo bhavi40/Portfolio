@@ -11,20 +11,19 @@ function Contact(){
                         <div className="contact__card">
                             <i className="bx bx-mail-send contact__card-icon"></i>
                             <h3 className="contact__card-title">Email</h3>
-                            <span className="contact__card-data">vudathabhavishya@gmail.com</span>
+                            <span className="contact__card-data">bhavishya@jobrequires.com</span>
 
-                            <a href="mailto:vudathabhavishya@gmail.com" className="contact__button">Write me{" "}
+                            <a href="mailto:bhavishya@jobrequires.com" className="contact__button">Write me{" "}
                                 <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                         </div>
 
                         <div className="contact__card">
                             <i className="bx bxl-whatsapp contact__card-icon"></i>
 
-                            <h3 className="contact__card-title">Whatsapp</h3>
-                            <span className="contact__card-data">+1 (720)-(591)-4267</span>
+                            <h3 className="contact__card-title">Phone</h3>
+                            <span className="contact__card-data">+1 (601)-(207)-1262</span>
 
-                            <a href="https://api.whatsapp.com/send?phone=7205914267&text=Hello" className="contact__button">Write me {" "}
-                                <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+                            
                         </div>
                     </div>
                 </div>

@@ -36,7 +36,7 @@ function DataScience(){
                 <i className='bx bx-badge-check'></i>
 
                 <div>
-                    <h3 className="skills__name">LLM</h3>
+                    <h3 className="skills__name">ETL/ELT Pipelines</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
@@ -49,7 +49,7 @@ function DataScience(){
                 <i className='bx bx-badge-check'></i>
 
                 <div>
-                    <h3 className="skills__name">RAG</h3>
+                    <h3 className="skills__name">Tensorflow</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
@@ -58,7 +58,7 @@ function DataScience(){
                 <i className='bx bx-badge-check'></i>
 
                 <div>
-                    <h3 className="skills__name">LangChain</h3>
+                    <h3 className="skills__name">pytorch</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
@@ -67,7 +67,7 @@ function DataScience(){
                 <i className='bx bx-badge-check'></i>
 
                 <div>
-                    <h3 className="skills__name">Vector Database</h3>
+                    <h3 className="skills__name">Prometheus/Grafana</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>

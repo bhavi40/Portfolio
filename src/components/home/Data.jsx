@@ -4,9 +4,9 @@ function Data(){
             <h1 className="home__title">Bhavishya Vudatha
                 <span className="emoji">👋</span>
             </h1>
-            <h3 className="home__subtitle">Data Scientist | Data Engineer | ML & AI Enthusiast</h3>
+            <h3 className="home__subtitle">ML Engineer | AI Engineer</h3>
             <p className="home__description">
-                  From ETL to AI, transforming raw data into meaningful insights with curiosity and passion.
+                  From machine learning to Generative AI, building intelligent, scalable systems that turn data into real-world impact.
             </p>
             <a href="#contact" className="button button--flex">
                 Say Hello

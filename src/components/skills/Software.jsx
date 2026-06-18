@@ -1,7 +1,7 @@
 function Software(){
     return(
         <div className="skills__content">
-            <h3 className="skills__title">Data Engineer</h3>
+            <h3 className="skills__title">AI Engineer</h3>
 
             <div className="skills__box">
                 <div className="skills__group">
@@ -18,7 +18,7 @@ function Software(){
                     <i className='bx bx-badge-check'></i>
 
                     <div>
-                        <h3 className="skills__name">SQL</h3>
+                        <h3 className="skills__name">LLM</h3>
                         <span className="skills__level">Advanced</span>
                     </div>
                     </div>
@@ -27,7 +27,7 @@ function Software(){
                     <i className='bx bx-badge-check'></i>
 
                     <div>
-                        <h3 className="skills__name">PySpark</h3>
+                        <h3 className="skills__name">RAG</h3>
                         <span className="skills__level">Advanced</span>
                     </div>
                     </div>
@@ -36,7 +36,7 @@ function Software(){
                     <i className='bx bx-badge-check'></i>
 
                     <div>
-                        <h3 className="skills__name">Azure Databricks</h3>
+                        <h3 className="skills__name">Agents</h3>
                         <span className="skills__level">Advanced</span>
                     </div>
                     </div>
@@ -49,7 +49,7 @@ function Software(){
                     <i className='bx bx-badge-check'></i>
 
                     <div>
-                        <h3 className="skills__name">ETL/EL Pipelines</h3>
+                        <h3 className="skills__name">Vector Databases</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
                     </div>
@@ -58,7 +58,7 @@ function Software(){
                     <i className='bx bx-badge-check'></i>
 
                     <div>
-                        <h3 className="skills__name">Kafka</h3>
+                        <h3 className="skills__name">MLflow</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
                     </div>
@@ -67,7 +67,7 @@ function Software(){
                     <i className='bx bx-badge-check'></i>
 
                     <div>
-                        <h3 className="skills__name">Azure</h3>
+                        <h3 className="skills__name">MLops</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
                     </div>

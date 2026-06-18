@@ -11,6 +11,7 @@ import Work10 from "../../assets/work10.jpeg";
 import Work11 from "../../assets/work11.png";
 import Work12 from "../../assets/work12.jpeg";
 import Work13 from "../../assets/work13.jpeg";
+import Work14 from "../../assets/work14.webp";
 
 
 export const projectData = [
@@ -103,8 +104,15 @@ export const projectData = [
         id: 13,
         image: Work13,
         title: 'AI Email Processing Agent',  
-        category: 'Research & Agents',
+        category: 'AI',
         github:'https://github.com/bhavi40/DataEngineering/tree/main/Telecom_data',
+    },
+    {
+        id: 14,
+        image: Work14,
+        title: 'Multimodal Rag pipeline for Research Papers',  
+        category: 'AI',
+        github:'https://github.com/bhavi40/GenerativeAI/tree/main/Multimodal-Research-RAG',
     },
     
 
@@ -128,6 +136,6 @@ export const projectsNav=[
         name:'App',
     },
     {
-        name:'Research & Agents'
+        name:'AI'
     }
 ];
